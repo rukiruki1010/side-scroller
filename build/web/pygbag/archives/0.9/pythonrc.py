@@ -1,1 +1,1 @@
-print('pythonrc.py loaded (local archives)')
+print('local archives pythonrc.py loaded')
